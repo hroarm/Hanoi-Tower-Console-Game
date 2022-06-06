@@ -1,0 +1,26 @@
+Wed Dec  1 18:46:31 2021
+3 disks: 7 moves
+Wed Dec  1 18:46:45 2021
+1 disks: 1 moves
+Wed Dec  1 18:46:56 2021
+2 disks: 3 moves
+Wed Dec  1 19:10:32 2021
+4 disks: 15 moves
+Wed Dec  1 19:10:45 2021
+2 disks: 3 moves
+Wed Dec  1 19:12:42 2021
+3 disks: 8 moves
+Fri Dec  3 00:08:23 2021
+3 disks: 7 moves
+Fri Dec  3 10:52:19 2021
+2 disks: 3 moves
+Fri Dec  3 12:22:34 2021
+4 disks: 15 moves
+Sun Dec  5 11:21:15 2021
+3 disks: 7 moves
+Sun Dec  5 11:22:26 2021
+2 disks: 4 moves
+Fri Dec 10 16:22:35 2021
+3 disks: 7 moves
+Wed Apr 20 19:48:31 2022
+2 disks: 3 moves
